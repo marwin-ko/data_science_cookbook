@@ -19,8 +19,6 @@
 |             |             |             |             |              |             |             |             |             |
 
 
-\begin{align}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
-\end{align}
+\frac{n!}{k!(n-k)!}
+
+\sum_{i=1}^{10} t_i
